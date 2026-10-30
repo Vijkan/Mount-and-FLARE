@@ -1,0 +1,9 @@
+C:\Users\mk\Downloads\LocalAIChat\LocalAIChat\bin\Release\LocalAIChat.dll
+C:\Users\mk\Downloads\LocalAIChat\LocalAIChat\bin\Release\LocalAIChat.pdb
+C:\Users\mk\Downloads\LocalAIChat\LocalAIChat\obj\Release\LocalAIChat.csproj.AssemblyReference.cache
+C:\Users\mk\Downloads\LocalAIChat\LocalAIChat\obj\Release\LocalAIChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mk\Downloads\LocalAIChat\LocalAIChat\obj\Release\LocalAIChat.AssemblyInfoInputs.cache
+C:\Users\mk\Downloads\LocalAIChat\LocalAIChat\obj\Release\LocalAIChat.AssemblyInfo.cs
+C:\Users\mk\Downloads\LocalAIChat\LocalAIChat\obj\Release\LocalAIChat.csproj.CoreCompileInputs.cache
+C:\Users\mk\Downloads\LocalAIChat\LocalAIChat\obj\Release\LocalAIChat.dll
+C:\Users\mk\Downloads\LocalAIChat\LocalAIChat\obj\Release\LocalAIChat.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="Local AI Chat"/>
+  <Id value="LocalAIChat"/>
+  <Version value="v1.0.0"/>
+  <SingleplayerModule value="true"/>
+  <MultiplayerModule value="false"/>
+  <DependedModules>
+    <DependedModule Id="Native"/>
+    <DependedModule Id="SandBoxCore"/>
+    <DependedModule Id="Sandbox"/>
+  </DependedModules>
+  <SubModules>
+    <SubModule>
+      <Name value="LocalAIChat"/>
+      <DLLName value="LocalAIChat.dll"/>
+      <SubModuleClassType value="LocalAIChat.SubModule"/>
+      <Tags/>
+    </SubModule>
+  </SubModules>
+</Module>

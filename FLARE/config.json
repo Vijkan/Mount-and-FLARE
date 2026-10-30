@@ -1,0 +1,11 @@
+{
+  "Endpoint": "http://127.0.0.1:8080/v1/chat/completions",
+  "Model": "local",
+  "ApiKey": "",
+  "Temperature": 0.8,
+  "MaxTokens": 300,
+  "HistoryTurns": 20,
+  "TimeoutSeconds": 120,
+  "DisableThinking": true,
+  "ExtraSystemPrompt": ""
+}
